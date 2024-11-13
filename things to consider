@@ -1,3 +1,18 @@
 Notes
-How many/big network?
-What security concepts are you looking or pushing for?
+Technical Rationale (add as you conceptualize)
+
+What is the current underlying pain point for the network? 
+    documentation of network topology?
+        (opportunity) to use network discovery and management tools
+    opportunity to present and study threat surface at rudimentary level e.g. knowledge transfer, informational turnover(s)(exercise the CIA framework when doing such handovers).
+
+Business Rationale (add as you conceptualize)
+    opportunity to review the current network topology
+        (opportunity) to align the security objectives goals and reconcile corporate/stakeholder direction
+
+What security features and compliances are the stakeholder/engineers is/are looking or pushing for?
+    What are the scope of responsibilities in this design?
+        PO & Budget Proposal
+        Project Contracts
+
+What is there a budget constraint?
